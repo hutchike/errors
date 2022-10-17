@@ -1,2 +1,4 @@
-# errors
-A simple web server to monitor errors
+Errors
+======
+
+A simple web service to monitor errors.
